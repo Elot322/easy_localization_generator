@@ -10,6 +10,5 @@ class SheetLocalization {
       this.version = 1,
       this.outDir = 'resources/langs',
       this.outName = 'langs.csv',
-      this.preservedKeywords = const []})
-      : assert(docId != null);
+      this.preservedKeywords = const []});
 }
